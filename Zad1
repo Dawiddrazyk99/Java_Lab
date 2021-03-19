@@ -1,0 +1,13 @@
+package pl.lublin.wsei.java.cwiczenia;
+/** Napis tralala */ 
+public class Main {
+    public static void main (String[] args) {
+
+        System.out.printIn("Hello Java world\n");
+        // Wyswirtli napis Hello Java world
+        /*
+        Komentarz
+        wielolinijkowy
+         */
+    }
+}
